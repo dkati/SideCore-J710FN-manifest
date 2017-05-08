@@ -5,7 +5,7 @@
            fetch="https://github.com/" />
 	   
    <project path="SideCore" name="dkati/SideCore-J710xx-MM" remote="github" revision="mm" />
-   <project path="lazer" name="dkati/SideCore-J710xx-MM" remote="github" revision="sid" />
+   <project path="SideCore2" name="dkati/SideCore-J710xx-MM" remote="github" revision="sidd-side" />
    <project path="Ramdisk" name="dkati/SideCore-Ramdisk" remote="github" revision="mm" />
    
 </manifest>
