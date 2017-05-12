@@ -5,4 +5,5 @@
            fetch="https://github.com/" />
 	   
    <project path="SideCore" name="dkati/SideCore-J710xx-MM" remote="github" revision="mm" />
+   <project path="toolchains" name="dkati/aarch64-toolchains" remote="github" revision="master" />
 </manifest>
