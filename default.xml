@@ -4,9 +4,7 @@
   <remote name="github"
            fetch="https://github.com/" />
 	   
-   <project path="SideCore" name="dkati/SideCore-J710xx-MM" remote="github" revision="mm" />
    <project path="toolchains" name="dkati/aarch64-toolchains" remote="github" revision="master" />
-   <project path="clean_sidecore" name="dkati/SideCore-J710xx-MM-CLEAN" remote="github" revision ="stock" />
-   <project path="clean_evo_sidecore" name="dkati/SideCore-J710xx-MM-CLEAN" remote="github" revision ="evo" />
+   <project path="sidecore" name="dkati/SideCore-J710xx-MM-CLEAN" remote="github" revision ="mm" />
    
 </manifest>
